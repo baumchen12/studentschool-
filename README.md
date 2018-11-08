@@ -1,6 +1,6 @@
                             VIDEO TUTORIAL LINK 
-                https://www.youtube.com/watch?v=4yqu8YF29cU
-
+                https://www.youtube.com/watch?v=4yqu8YF29cU                                                       
+                            
                             LEARNING OBJECTIVES
     The main learning objective which is the title of the assignment is to build
 a Student and School database site. While exploring the tutorial link given above,
