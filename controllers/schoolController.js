@@ -38,7 +38,6 @@ exports.school_update = function(req, res) {
 		})
 	})
 }
-}
 
 exports.school_remove = function(req, res) {
     const query = req.query
